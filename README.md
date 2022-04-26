@@ -10,6 +10,7 @@ Verilerin yüklendiği sırada bir loading işlemi gerçekleştirme.
 * İlanları favori listesine ekleme.
 * Favori listesinde eklenen ilanları listeleme.
 * Favori listesindeki ilanları silme.
+* Favori listesinden ürün bilgisine gitme
 
 ![image info](./Demo/Demo.gif)
 
