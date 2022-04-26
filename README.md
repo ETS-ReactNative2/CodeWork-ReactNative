@@ -12,7 +12,7 @@ Verilerin yüklendiği sırada bir loading işlemi gerçekleştirme.
 * Favori listesindeki ilanları silme.
 * Favori listesinden ürün bilgisine gitme
 
-<img src='./Demo/Demo.gif' width='500' height='800' > 
+<img src='./Demo/Demo.gif' width='500' height='900' > 
 
 
 
