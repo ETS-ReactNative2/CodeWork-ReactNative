@@ -12,7 +12,7 @@ Verilerin yüklendiği sırada bir loading işlemi gerçekleştirme.
 * Favori listesindeki ilanları silme.
 * Favori listesinden ürün bilgisine gitme
 
-![image info](./Demo/Demo.gif width=300x200)
+![image info](./Demo/Demo.gif)
 
 ## Başlangıç
 Bu depoyu yerel makinenizde klonlayın.
