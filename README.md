@@ -19,15 +19,11 @@ Verilerin yüklendiği sırada bir loading işlemi gerçekleştirme.
 ## Başlangıç
 Bu depoyu yerel makinenizde klonlayın.
 ```
-git clone https://github.com/ibrahimaykutbas/patika-react-native.git
+git clone https://github.com/Lyndray/CodeWork-ReactNative.git
 ```
 
 Kullanım
-Projeyi klonladıktan sonra kullanmak için:
-```
-cd patika-react-native/Kodwork
-cd .
-```
+
 * Proje bağımlılıklarını yüklemek için proje klasörüne aşağıdaki komutları çalıştırın.
 
 ```
